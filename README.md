@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepa arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="![image](https://github.com/user-attachments/assets/50bfe6ec-2758-4cfc-8ce1-19264719d371)
-"align="right" alt="coding" width="400">
+"align="right" width="400">
 
 - 🌱 I’m currently learning **B C A**
 
