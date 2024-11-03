@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepa arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/imgres?q=animation%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg
-  .com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--
-  126663808259167697%2F&docid=2_EEXl1mO124lM&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwjV15LKucCJAxXu7TgGHc1MKAYQM3oECGUQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwjV15LKucCJAxXu7TgGHc1MKAYQM3oECGUQAA" align="right" alt="coding" width="400">
+<img src="![image](https://github.com/user-attachments/assets/50bfe6ec-2758-4cfc-8ce1-19264719d371)
+"align="right" alt="coding" width="400">
 
 - 🌱 I’m currently learning **B C A**
 
